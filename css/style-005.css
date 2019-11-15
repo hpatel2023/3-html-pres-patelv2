@@ -54,6 +54,59 @@ p, h1, h2, h3, h4, h5, h6 {
   background-size: cover;
 }
 
+.fullscreen-img-4 {
+  /* The image used */
+  background-image: url("../img/black-claw-hammer-on-brown-wooden-plank-209235.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fullscreen-img-5 {
+  /* The image used */
+  background-image: url("../img/photo-of-two-people-shakehands-2058130.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fullscreen-img-6 {
+  /* The image used */
+  background-image: url("../img/newly-make-high-rise-building-162557.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fullscreen-img-7 {
+  /* The image used */
+  background-image: url("../img/photo-of-cityscape-at-night-2989727.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 
 .black-shadow {
     
